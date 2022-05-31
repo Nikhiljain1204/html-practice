@@ -1,0 +1,22 @@
+
+<style>
+body {
+background-color: bisque;
+}
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 10px;
+width: 100px;
+
+
+;
+}
+table
+{
+    border-color: blue;
+}
+
+</style>
