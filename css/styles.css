@@ -21,9 +21,16 @@ img:hover {
 }
 h1 {
     color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    ;
 }
 img {
     background-color: white;
+}
+.Nikhil {
+    position: relaative;
+    margin: 10px;
 }
 .Hello {
     background-color: red;
@@ -42,32 +49,34 @@ img {
     background-color: red;
     height: 200px;
     width: 200px;
-    border-style: groove;
-    border-color: black;
-    border-width: 10px;
-    padding: 10px;
-    margin-left: 0px;
+    position: absolute;
+    left: 205px;
+    top: x;
     
 }
 .div3 {
     background-color: blue;
     height: 200px;
     width: 200px;
-    border-style: dotted;
-    border-width: 10px;
-margin-left: 240px;
+    position: absolute;
+    left: 405 cpx;
+    
 
 }
 .div4 {
     background-color: aqua;
     height: 200px;
     width: 200px;
-    border-style: double;
-    border-color: blueviolet;
-    border-width: 10px;
-    padding: 10px;
-    margin-left: 460px;
+    position: absolute;
+    margin: 0;
+
+  
 }
 .Points {
-background-color: aqua;
+    background-color: aqua;
+    text-decoration: underline
+    
+}
+.heading1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
