@@ -1,5 +1,5 @@
 
-<style>
+
 body {
 background-color: bisque;
 }
@@ -10,13 +10,64 @@ border-top-style: dotted;
 border-color: grey;
 border-width: 10px;
 width: 100px;
-
-
-;
 }
+
 table
 {
     border-color: blue;
 }
+img:hover {
+    background-color: blue;
+}
+h1 {
+    color: grey;
+}
+img {
+    background-color: white;
+}
+.Hello {
+    background-color: red;
+    border-radius: 100px;
+}
+#total {
+    background-color: brown;
+    text-align: left;
 
-</style>
+}
+
+.div1 {
+    background-color: blueviolet;
+}
+.div2 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-style: groove;
+    border-color: black;
+    border-width: 10px;
+    padding: 10px;
+    margin-left: 0px;
+    
+}
+.div3 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-style: dotted;
+    border-width: 10px;
+margin-left: 240px;
+
+}
+.div4 {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border-style: double;
+    border-color: blueviolet;
+    border-width: 10px;
+    padding: 10px;
+    margin-left: 460px;
+}
+.Points {
+background-color: aqua;
+}
